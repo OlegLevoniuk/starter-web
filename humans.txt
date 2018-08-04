@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oleg Levoniuk oleg.levoniuk@gmail.com
 
 # THANKS
 
